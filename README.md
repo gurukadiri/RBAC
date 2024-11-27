@@ -1,6 +1,6 @@
-# React Admin Dashboard
+# RBAC
 
-# RBAC Demo
+## Demo
 
 A demo video of the project.
 
