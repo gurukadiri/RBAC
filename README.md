@@ -4,9 +4,9 @@
 
 A demo video of the project.
 
-![RBAC Demo Preview](https://github.com/kadirikumar-uptycs/RBAC/blob/master/Kadiri-RBAC.gif)
+![RBAC Demo Preview](https://github.com/gurukadiri/RBAC/blob/master/Kadiri-RBAC.gif)
 
-To view the full video, [click here](https://github.com/kadirikumar-uptycs/RBAC/blob/master/Kadiri-RBAC.mp4).
+To view the full video, [click here](https://github.com/gurukadiri/RBAC/blob/master/Kadiri-RBAC.mp4).
 
 
 ## Features
@@ -51,7 +51,7 @@ Each user role has a customized sidebar with role-appropriate routes:
 
 1. Clone the repository
 ```bash
-git clone https://github.com/kadirikumar-uptycs/RBAC.git
+git clone https://github.com/gurukadiri/RBAC.git
 cd RBAC
 ```
 
