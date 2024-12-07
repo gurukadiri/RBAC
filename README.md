@@ -4,9 +4,9 @@
 
 A demo video of the project.
 
-![RBAC Demo Preview](https://github.com/gurukadiri/RBAC/blob/master/Kadiri-RBAC.gif)
+![RBAC Demo Preview](https://github.com/gurukadiri/RBAC/blob/main/Kadiri-RBAC.gif)
 
-To view the full video, [click here](https://github.com/gurukadiri/RBAC/blob/master/Kadiri-RBAC.mp4).
+To view the full video, [click here](https://github.com/gurukadiri/RBAC/blob/main/Kadiri-RBAC.mp4).
 
 
 ## Features
